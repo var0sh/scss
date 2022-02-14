@@ -1,0 +1,15 @@
+body {
+  width: 10px;
+  height: 10px;
+  color: #fff;
+  border: 1px solid #444444;
+  margin: 1px;
+  padding: 0;
+  -webkit-box-shadow: 1px 1px 1px #fff;
+          box-shadow: 1px 1px 1px #fff;
+}
+
+body {
+  background-color: yellow;
+}
+/*# sourceMappingURL=style.css.map */

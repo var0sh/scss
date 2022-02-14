@@ -1,0 +1,19 @@
+
+$w:10px;
+$h:10px;
+$color:#fff;
+$border:1px solid #444444;
+$margin:1px;
+$p: 0;
+$s: 1px 1px 1px #fff;
+
+
+body{
+    width: $w;
+    height: $h; 
+    color: $color; 
+    border: $border;
+    margin: $margin;
+    padding: $p;
+    box-shadow: $s;
+}
